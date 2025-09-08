@@ -17,15 +17,17 @@
     MINIGAME/FULL GAME DEVELOPMENT, STRIVING FOR INNOVATION AND PURSUING CRAZY IDEAS
 
 💰 +300 SALES ON BUILTBYBIT!
+  </p>
+
 
     <!--Intro end-->
-  </p>
+  
 <br>
 
 
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Resources👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
