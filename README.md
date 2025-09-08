@@ -7,6 +7,11 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6de169bd-ffe4-4077-b4b9-146dec381276" 
+       width="100%" 
+       style="max-height:200px; object-fit:cover;">
+</div>
 <h2>About me: 😃</h2>
 
 <p align="left">
