@@ -30,7 +30,7 @@
   <td width="25%" align="center">
     <p align="center">
       <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
-        <img align="center" width="60%" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
+        <img align="center" width="60%" height="auto" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
       </a>
     </p>
     <p align="center">
