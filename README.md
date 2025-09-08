@@ -60,4 +60,26 @@
 </tr>
 </table
 
+<table align="left">
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center"><strong>QuazarShop</strong></p>
+    <p align="center">
+      <a href="https://github.com/Buxarov/QuazarShop" title="Go to Repository">
+        <img align="center" width="200px" height="auto" src="https://github.com/user-attachments/assets/95631bf0-d9cd-4285-bd82-06979ca0a280" alt="QuazarTreasures" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/Buxarov/QuazarShop" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>       
+  </td>
+</tr>
+</table>
+
+
+<img width="456" height="444" alt="image" src="" />
+
+
 <br><br><br><br><br>
