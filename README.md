@@ -20,11 +20,11 @@
   </p>
 
 
-    <!--Intro end-->
+
   
 <br>
 
-
+    <!--Intro end-->
 <!-------------------------->
 <div id="proyectos">
 <h2 >Resources👨🏻‍💻</h2>
