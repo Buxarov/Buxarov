@@ -24,7 +24,6 @@
 
 <div id="Resources">
 <h2>Resources 👨🏻‍💻</h2>
-
 <table width="100%">
 <tr>
   <!-- QuazarGems -->
