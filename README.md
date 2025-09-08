@@ -25,7 +25,7 @@
 <div id="Resources">
 <h2>Resources 👨🏻‍💻</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
   <!-- QuazarGems -->
   <td width="33%" align="left">
@@ -41,7 +41,7 @@
   </td>
 
   <!-- QuazarTreasures -->
-  <td width="25%" align="center">
+  <td width="33%" align="center">
     <p><strong>QuazarTreasures</strong></p>
     <a href="https://github.com/Buxarov/QuazarTreasures" title="Go to Repository">
       <img width="200px" height="auto" src="https://github.com/user-attachments/assets/95631bf0-d9cd-4285-bd82-06979ca0a280" alt="QuazarTreasures" />
@@ -54,7 +54,7 @@
   </td>
 
   <!-- QuazarShop -->
-  <td width="25%" align="center">
+  <td width="33%" align="center">
     <p><strong>QuazarShop</strong></p>
     <a href="https://github.com/Buxarov/QuazarShop" title="Go to Repository">
       <img width="200px" height="auto" src="https://github.com/user-attachments/assets/3e8209cc-8ce8-4a6a-bc8c-b480d92bcac9" alt="QuazarShop" />
