@@ -24,7 +24,6 @@
 
 <div id="Resources">
 <h2>Resources 👨🏻‍💻</h2>
-
 <table align="left">
 <tr border="none">
   <td width="25%" align="center">
@@ -43,5 +42,22 @@
 </tr>
 </table>
 
+<table align="left">
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center"><strong>QuazarTreasures</strong></p>
+    <p align="center">
+      <a href="https://github.com/Buxarov/QuazarTreasures" title="Go to Repository">
+        <img align="center" width="200px" height="auto" src="https://github.com/user-attachments/assets/95631bf0-d9cd-4285-bd82-06979ca0a280" alt="QuazarTreasures" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/Buxarov/QuazarTreasures" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>       
+  </td>
+</tr>
+</table
 
 <br><br><br><br><br>
