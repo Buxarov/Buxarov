@@ -4,19 +4,16 @@
   <a href="https://discord.gg/pF2xftztkq" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="@Buxarov"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me: 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🚀 CO-FOUNDER OF QUAZARSTUDIOS  
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+✨ PASSIONATE ABOUT ADD-ONS  
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+🎮 BEEN PART OF SEVERAL SERVERS WITH 300-500+ USERS!  
+    MINIGAME/FULL GAME DEVELOPMENT, STRIVING FOR INNOVATION AND PURSUING CRAZY IDEAS
 <!--Intro end-->
   </p>
 <br>
