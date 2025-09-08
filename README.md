@@ -21,6 +21,7 @@
 </p>
 
 <br>
+<img width="1024" height="1024" alt="QuazarGems" src="" />
 
 <div id="proyectos">
 <h2>Resources 👨🏻‍💻</h2>
@@ -29,8 +30,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="VIDEO" />
+      <a href="https://github.com/Buxarov/QuazarGems" title="Go to Source">
+        <img align="center" width="100%" src="https://github.com/user-attachments/assets/80a24dbb-68c4-4d21-b242-6cd08b182871p" alt="VIDEO" />
       </a>
     </p>
     <p align="center">
