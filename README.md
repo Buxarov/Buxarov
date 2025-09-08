@@ -28,7 +28,7 @@
 <table align="center">
 <tr>
   <!-- QuazarGems -->
-  <td width="25%" align="center">
+  <td width="33%" align="left">
     <p><strong>QuazarGems</strong></p>
     <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
       <img width="200px" height="auto" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
