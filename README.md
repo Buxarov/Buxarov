@@ -31,24 +31,6 @@
     <p align="center"><strong>QuazarGems</strong></p>
     <p align="center">
       <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
-        <img align="center" width="100%" height="auto" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/Buxarov/QuazarGems" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-</tr>
-</table>
-
-<table align="left">
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center"><strong>QuazarGems</strong></p>
-    <p align="center">
-      <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
         <img align="center" width="200px" height="auto" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
       </a>
     </p>
