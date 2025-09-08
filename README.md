@@ -7,12 +7,6 @@
 
 <br>
 
-<div style="width:100%; overflow:hidden;" align="center">
-  <img src="https://github.com/user-attachments/assets/6de169bd-ffe4-4077-b4b9-146dec381276"
-       style="width:100%; height:250px; object-fit:cover;">
-</div>
-
-
 <h2>About me: 😃</h2>
 
 <p align="left">
