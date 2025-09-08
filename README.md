@@ -23,28 +23,25 @@
 <br>
 <img width="1024" height="1024" alt="QuazarGems" src="" />
 
-<div id="proyectos">
+<div id="Resources">
 <h2>Resources 👨🏻‍💻</h2>
 
 <table align="left">
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://github.com/Buxarov/QuazarGems" title="Go to Source">
-        <img align="center" width="100%" src="https://github.com/user-attachments/assets/80a24dbb-68c4-4d21-b242-6cd08b182871p" alt="VIDEO" />
+      <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
+        <img align="center" width="100%" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
       </a>
     </p>
     <p align="center">
-      <a href="https://youtu.be/rISmdhlhOPM" target="blank">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-      </a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+      <a href="https://github.com/Buxarov/QuazarGems" target="_blank">
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>       
   </td>
 </tr>
 </table>
-</div>
+
 
 <br><br><br><br><br>
