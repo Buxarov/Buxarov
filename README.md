@@ -108,7 +108,7 @@
 
   <!-- QuazarParty -->
   <td width="25%" align="center">
-    <p><strong>QuazarHouse</strong></p>
+    <p><strong>QuazarParty</strong></p>
     <a href="https://github.com/Buxarov/QuazarParty" title="Go to Repository">
       <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/c82bdc5a-9595-41f3-a320-d5b67882f4ac" alt="QuazarParty" />
     </a>
