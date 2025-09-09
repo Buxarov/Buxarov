@@ -65,10 +65,10 @@
     </p>
   </td>
   <!-- QuazarBalloons -->
-  <td width="25%" align="right">
+  <td width="25%" align="center">
     <p><strong>QuazarBalloons</strong></p>
     <a href="https://github.com/Buxarov/QuazarBalloons" title="Go to Repository">
-      <img width="200px" height="auto" src="https://github.com/user-attachments/assets/3312e295-7681-4d56-8134-ade09cc80afe" alt="QuazarBalloons" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/3312e295-7681-4d56-8134-ade09cc80afe" alt="QuazarBalloons" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarBalloons" target="_blank">
