@@ -60,7 +60,7 @@
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarTreasures" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://i.ibb.co/1GkyB8s4/Mesa-de-trabajo-1.png)" alt="GitHub" />
       </a>
     </p>
   </td>
