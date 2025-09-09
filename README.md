@@ -56,7 +56,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarTreasures</strong></p>
     <a href="https://github.com/Buxarov/QuazarTreasures" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/95631bf0-d9cd-4285-bd82-06979ca0a280" alt="QuazarTreasures" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/dcc1b9f1-1675-4ebb-a608-0a68ce6a6cb9" alt="QuazarTreasures" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarTreasures" target="_blank">
@@ -64,6 +64,7 @@
       </a>
     </p>
   </td>
+
 
   <!-- QuazarShop -->
   <td width="25%" align="center">
