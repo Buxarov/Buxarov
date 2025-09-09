@@ -96,18 +96,17 @@
 
   <!-- QuazarHouse -->
   <td width="25%" align="center">
-    <p><strong>QuazarPortals</strong></p>
+    <p><strong>QuazarHouse</strong></p>
     <a href="https://github.com/Buxarov/QuazarHouse" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/33d9e88c-3681-4212-8776-91b97aba4a05" alt="QuazarPortals" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/5760f18c-dc36-4682-be07-d21a222efe82" alt="QuazarPortals" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarHouse" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
-  </td>
 
-  
+
 </tr>
 </table>
 </div>
