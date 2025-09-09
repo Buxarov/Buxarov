@@ -65,7 +65,6 @@
     </p>
   </td>
 
-
   <!-- QuazarShop -->
   <td width="25%" align="center">
     <p><strong>QuazarShop</strong></p>
@@ -74,6 +73,22 @@
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarShop" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+</tr>
+
+<!-- Segunda fila -->
+<tr>
+  <!-- QuazarPortals -->
+  <td width="25%" align="center">
+    <p><strong>QuazarPortals</strong></p>
+    <a href="https://github.com/Buxarov/QuazarPortals" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-portal.png" alt="QuazarPortals" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarPortals" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
