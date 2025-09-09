@@ -64,9 +64,22 @@
       </a>
     </p>
   </td>
+  <!-- QuazarBalloons -->
+  <td width="25%" align="right">
+    <p><strong>QuazarBalloons</strong></p>
+    <a href="https://github.com/Buxarov/QuazarBalloons" title="Go to Repository">
+      <img width="200px" height="auto" src="https://github.com/user-attachments/assets/your-balloon-image.png" alt="QuazarBalloons" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarBalloons" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
 </tr>
 </table>
 </div>
+
 
 
 <br><br><br><br><br>
