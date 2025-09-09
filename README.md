@@ -68,7 +68,7 @@
   <td width="25%" align="right">
     <p><strong>QuazarBalloons</strong></p>
     <a href="https://github.com/Buxarov/QuazarBalloons" title="Go to Repository">
-      <img width="200px" height="auto" src="https://github.com/user-attachments/assets/your-balloon-image.png" alt="QuazarBalloons" />
+      <img width="200px" height="auto" src="https://github.com/user-attachments/assets/3312e295-7681-4d56-8134-ade09cc80afe" alt="QuazarBalloons" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarBalloons" target="_blank">
@@ -79,7 +79,6 @@
 </tr>
 </table>
 </div>
-
 
 
 <br><br><br><br><br>
