@@ -1,4 +1,4 @@
-<h1 align="center">Buxar/ov 👋  QuazarStudios ✨ </h1> 
+<img width="677" height="679" alt="image" src="https://github.com/user-attachments/assets/d4cb801b-cd3f-41cf-8e66-7bbc545e1dd1" /><img width="677" height="679" alt="image" src="https://github.com/user-attachments/assets/0957c81d-21f0-4e7d-94e3-31b3e3151121" /><h1 align="center">Buxar/ov 👋  QuazarStudios ✨ </h1> 
 
 <p align="left">
   <a href="https://discord.gg/pF2xftztkq" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="@Buxarov"  /></a>
@@ -130,6 +130,65 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
+
+<!-- Tercera fila -->
+<tr>
+  <!-- QuazarFoods -->
+  <td width="25%" align="center">
+    <p><strong>QuazarFoods</strong></p>
+    <a href="https://github.com/Buxarov/QuazarFoods" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/6356049d-05cc-412f-81a2-5d825618f735" alt="QuazarFoods" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarFoods" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+
+
+
+
+
+  <!-- QuazarBetterDrops -->
+  <td width="25%" align="center">
+    <p><strong>QuazarBetterDrops</strong></p>
+    <a href="https://github.com/Buxarov/QuazarBetterdrops" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-betterdrops.png" alt="QuazarBetterDrops" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarBetterdrops" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+
+  <!-- QuazarFoodsExtras -->
+  <td width="25%" align="center">
+    <p><strong>QuazarFoodsExtras</strong></p>
+    <a href="https://github.com/Buxarov/QuazarFoodsExtras" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-foodsextras.png" alt="QuazarFoodsExtras" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarFoodsExtras" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+
+  <!-- QuazarCustoms -->
+  <td width="25%" align="center">
+    <p><strong>QuazarCustoms</strong></p>
+    <a href="https://github.com/Buxarov/QuazarCustoms" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-customs.png" alt="QuazarCustoms" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarCustoms" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+</tr>
 
    
 </tr>
