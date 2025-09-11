@@ -1,4 +1,4 @@
-<img width="677" height="679" alt="image" src="https://github.com/user-attachments/assets/d4cb801b-cd3f-41cf-8e66-7bbc545e1dd1" /><img width="677" height="679" alt="image" src="https://github.com/user-attachments/assets/0957c81d-21f0-4e7d-94e3-31b3e3151121" /><h1 align="center">Buxar/ov 👋  QuazarStudios ✨ </h1> 
+<h1 align="center">Buxar/ov 👋  QuazarStudios ✨ </h1> 
 
 <p align="left">
   <a href="https://discord.gg/pF2xftztkq" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="@Buxarov"  /></a>
