@@ -160,6 +160,19 @@
     </p>
   </td>
 
+  <!-- QuazarHud -->
+  <td width="25%" align="center">
+    <p><strong>QuazarHud</strong></p>
+    <a href="https://github.com/Buxarov/QuazarHud" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/de9745e2-b853-4d98-a914-7c37fef846a4" alt="QuazarBetterDrops" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarHud" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </td>
+
    
 </tr>
 </table>
