@@ -123,7 +123,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarDrop</strong></p>
     <a href="https://github.com/Buxarov/QuazarBetterdrops" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/294dda45-3278-4a0b-bec3-8c450fac386b" alt="QuazarParty" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/cb497fc9-934c-402c-9827-cc4244276384" alt="QuazarParty" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarBetterdrops" target="_blank">
@@ -137,7 +137,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarFoods</strong></p>
     <a href="https://github.com/Buxarov/QuazarFoods" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/7f032d55-387f-4e89-ad4a-5af331334287" alt="QuazarFoods" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/2a84a428-7018-4c7d-9530-7c4f632a6ffd" alt="QuazarFoods" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarFoods" target="_blank">
@@ -151,7 +151,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarTombstone</strong></p>
     <a href="https://github.com/Buxarov/QuazarTombstone" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/c48c4c47-5094-4dd8-af93-cd1afba199d7" alt="QuazarBetterDrops" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/62d2a268-7a2a-4e97-ae85-7ed848a48662" alt="QuazarBetterDrops" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarTombstone" target="_blank">
@@ -172,6 +172,8 @@
       </a>
     </p>
   </td>
+
+
 
    
 </tr>
