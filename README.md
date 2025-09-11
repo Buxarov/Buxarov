@@ -30,7 +30,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarGems</strong></p>
     <a href="https://github.com/Buxarov/QuazarGems" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/49d83072-7748-42de-9242-abccf5a3d730" alt="QuazarGems" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/dab02a07-07ec-4e5c-94f3-d7d72863568b" alt="QuazarGems" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarGems" target="_blank">
@@ -39,11 +39,12 @@
     </p>
   </td>
 
+
   <!-- QuazarBalloons -->
   <td width="25%" align="center">
     <p><strong>QuazarBalloons</strong></p>
     <a href="https://github.com/Buxarov/QuazarBalloons" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/3312e295-7681-4d56-8134-ade09cc80afe" alt="QuazarBalloons" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/83d51289-3bd8-48a5-9fce-65b9be586705" alt="QuazarBalloons" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarBalloons" target="_blank">
@@ -52,11 +53,14 @@
     </p>
   </td>
 
+
+
+
   <!-- QuazarTreasures -->
   <td width="25%" align="center">
     <p><strong>QuazarTreasures</strong></p>
     <a href="https://github.com/Buxarov/QuazarTreasures" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/dcc1b9f1-1675-4ebb-a608-0a68ce6a6cb9" alt="QuazarTreasures" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/6d577859-c20c-492e-90e6-1e093f0b601a" alt="QuazarTreasures" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarTreasures" target="_blank">
@@ -69,7 +73,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarShop</strong></p>
     <a href="https://github.com/Buxarov/QuazarShop" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/3e8209cc-8ce8-4a6a-bc8c-b480d92bcac9" alt="QuazarShop" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/698d22d7-6197-40cf-94ce-b69c30236819" alt="QuazarShop" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarShop" target="_blank">
@@ -79,13 +83,15 @@
   </td>
 </tr>
 
+
+
 <!-- Segunda fila -->
 <tr>
   <!-- QuazarPortals -->
   <td width="25%" align="center">
     <p><strong>QuazarPortals</strong></p>
     <a href="https://github.com/Buxarov/QuazarPortals" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/33d9e88c-3681-4212-8776-91b97aba4a05" alt="QuazarPortals" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/dfc75ade-3226-455c-99bb-60055a5e9249" alt="QuazarPortals" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarPortals" target="_blank">
@@ -94,11 +100,14 @@
     </p>
   </td>
 
+
+
+
   <!-- QuazarHouse -->
   <td width="25%" align="center">
     <p><strong>QuazarHouse</strong></p>
     <a href="https://github.com/Buxarov/QuazarHouse" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/5760f18c-dc36-4682-be07-d21a222efe82" alt="QuazarPortals" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/8b876fea-8009-452e-b220-95c239515b4f" alt="QuazarPortals" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarHouse" target="_blank">
@@ -110,14 +119,13 @@
   <td width="25%" align="center">
     <p><strong>QuazarParty</strong></p>
     <a href="https://github.com/Buxarov/QuazarParty" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/c82bdc5a-9595-41f3-a320-d5b67882f4ac" alt="QuazarParty" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/8163ab58-fa29-4a13-a307-db3b76070614" alt="QuazarParty" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarParty" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
-
 
   <!-- QuazarDrop -->
   <td width="25%" align="center">
@@ -130,6 +138,7 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
+
 
 <!-- Tercera fila -->
 <tr>
