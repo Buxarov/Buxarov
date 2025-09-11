@@ -131,14 +131,13 @@
   <td width="25%" align="center">
     <p><strong>QuazarDrop</strong></p>
     <a href="https://github.com/Buxarov/QuazarBetterdrops" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/cb497fc9-934c-402c-9827-cc4244276384" alt="QuazarParty" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/01d01e28-2471-443b-93a0-d44e3fe137c5" alt="QuazarParty" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarBetterdrops" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
-
 
 <!-- Tercera fila -->
 <tr>
