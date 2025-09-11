@@ -147,45 +147,18 @@
   </td>
 
 
-  <!-- QuazarBetterDrops -->
+  <!-- QuazarTombstone -->
   <td width="25%" align="center">
-    <p><strong>QuazarBetterDrops</strong></p>
-    <a href="https://github.com/Buxarov/QuazarBetterdrops" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-betterdrops.png" alt="QuazarBetterDrops" />
+    <p><strong>QuazarTombstone</strong></p>
+    <a href="https://github.com/Buxarov/QuazarTombstone" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/c48c4c47-5094-4dd8-af93-cd1afba199d7" alt="QuazarBetterDrops" />
     </a>
     <p>
-      <a href="https://github.com/Buxarov/QuazarBetterdrops" target="_blank">
+      <a href="https://github.com/Buxarov/QuazarTombstone" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
   </td>
-
-  <!-- QuazarFoodsExtras -->
-  <td width="25%" align="center">
-    <p><strong>QuazarFoodsExtras</strong></p>
-    <a href="https://github.com/Buxarov/QuazarFoodsExtras" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-foodsextras.png" alt="QuazarFoodsExtras" />
-    </a>
-    <p>
-      <a href="https://github.com/Buxarov/QuazarFoodsExtras" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>
-  </td>
-
-  <!-- QuazarCustoms -->
-  <td width="25%" align="center">
-    <p><strong>QuazarCustoms</strong></p>
-    <a href="https://github.com/Buxarov/QuazarCustoms" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/placeholder-customs.png" alt="QuazarCustoms" />
-    </a>
-    <p>
-      <a href="https://github.com/Buxarov/QuazarCustoms" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>
-  </td>
-</tr>
 
    
 </tr>
