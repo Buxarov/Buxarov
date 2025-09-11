@@ -117,6 +117,21 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
+
+
+  <!-- QuazarDrop -->
+  <td width="25%" align="center">
+    <p><strong>QuazarDrop</strong></p>
+    <a href="https://github.com/Buxarov/QuazarBetterdrops" title="Go to Repository">
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/294dda45-3278-4a0b-bec3-8c450fac386b" alt="QuazarParty" />
+    </a>
+    <p>
+      <a href="https://github.com/Buxarov/QuazarBetterdrops" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+
+   
 </tr>
 </table>
 </div>
