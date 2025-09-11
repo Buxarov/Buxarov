@@ -137,7 +137,7 @@
   <td width="25%" align="center">
     <p><strong>QuazarFoods</strong></p>
     <a href="https://github.com/Buxarov/QuazarFoods" title="Go to Repository">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/6356049d-05cc-412f-81a2-5d825618f735" alt="QuazarFoods" />
+      <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/7f032d55-387f-4e89-ad4a-5af331334287" alt="QuazarFoods" />
     </a>
     <p>
       <a href="https://github.com/Buxarov/QuazarFoods" target="_blank">
@@ -145,9 +145,6 @@
       </a>
     </p>
   </td>
-
-
-
 
 
   <!-- QuazarBetterDrops -->
