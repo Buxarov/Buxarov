@@ -5,6 +5,13 @@
   <a href="https://builtbybit.com/members/buxarov.144887/" target="blank"><img align="center" src="https://img.shields.io/badge/BuiltByBit-2D2D2D?style=for-the-badge&logoColor=white" alt="@Buxarov"  /></a>
 </p>
 
+# 🪦 QuazarTombstone  
+### 📢 Latest Update
+
+---
+
+## [1.2.0] – Major Update 🚀
+
 <br>
 
 <h2>About me: 😃</h2>
