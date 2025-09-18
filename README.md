@@ -151,11 +151,11 @@
   <!-- QuazarFoods -->
   <td width="25%" align="center">
     <p><strong>QuazarFoods</strong></p>
-    <a href="https://github.com/Buxarov/QuazarFoods" title="Go to Repository">
+    <a href="https://github.com/Buxarov/QuazarFood" title="Go to Repository">
       <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/2a84a428-7018-4c7d-9530-7c4f632a6ffd" alt="QuazarFoods" />
     </a>
     <p>
-      <a href="https://github.com/Buxarov/QuazarFoods" target="_blank">
+      <a href="https://github.com/Buxarov/QuazarFood" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </p>
